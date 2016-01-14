@@ -19,7 +19,7 @@ class CacheAPC
 
 	function setData($key, $data)
 	{
-		return apc_store($key, $data, $this->timToLive);
+		return apc_store($key, $data, $this->timeToLive);
 	}
 
 	function delData($key)
