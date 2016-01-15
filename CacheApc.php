@@ -7,7 +7,7 @@ class CacheAPC
 
 	function CacheAPC()
 	{
-		$this->enable = extension_loaded('apc');
+		$this->enable = extension_loaded('apcu');
 	}
 
 	function getData($key)
