@@ -1,0 +1,15 @@
+<a href="predis/examples/custom_cluster_distributor.php">custom_cluster_distributor.php</a></br>
+<a href="predis/examples/debuggable_connection.php">debuggable_connection.php</a></br>
+<a href="predis/examples/dispatcher_loop.php">dispatcher_loop.php</a></br>
+<a href="predis/examples/executing_redis_commands.php">executing_redis_commands.php</a></br>
+<a href="predis/examples/key_prefixing.php">key_prefixing.php</a></br>
+<a href="predis/examples/lua_scripting_abstraction.php">lua_scripting_abstraction.php</a></br>
+<a href="predis/examples/monitor_consumer.php">monitor_consumer.php</a></br>
+<a href="predis/examples/pipelining_commands.php">pipelining_commands.php</a></br>
+<a href="predis/examples/pubsub_consumer.php">pubsub_consumer.php</a></br>
+<a href="predis/examples/redis_collections_iterators.php">redis_collections_iterators.php</a></br>
+<a href="predis/examples/replication_complex.php">replication_complex.php</a></br>
+<a href="predis/examples/replication_simple.php">replication_simple.php</a></br>
+<a href="predis/examples/session_handler.php">session_handler.php</a></br>
+<a href="predis/examples/shared.php">shared.php</a></br>
+<a href="predis/examples/transaction_using_cas.php">transaction_using_cas.php</a></br>
