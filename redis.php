@@ -8,4 +8,5 @@ try {
 	exit;
 }
 
-echo 'Server is running';
+$redis->set('name', 'Maria');
+echo $redis->get('name');
